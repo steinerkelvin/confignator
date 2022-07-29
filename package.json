@@ -1,0 +1,14 @@
+{
+  "name": "confignator",
+  "version": "0.1.0",
+  "packageManager": "yarn@3.2.2",
+  "description": "Type-safe configuration loading.",
+  "repository": "https://github.com/steinerkelvin/confignator",
+  "author": "Kelvin Steiner <me@steinerkelvin.dev>",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  }
+}
